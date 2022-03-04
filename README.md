@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mutashim
-- 👀 I’m interested in Financial Technology
-- 🌱 I’m currently learning Accounting
-- 💞️ I’m looking to collaborate on Front-end Web Developer
+- 👀 I’m interested in Interested in Digital Finance, Digital Economics, Taxation, Accounting, and Investment.
+- 🌱 I’m currently learning Accounting and Investment
+- 💞️ I’m looking to collaborate on Financial Technology Development
 - 📫 How to reach me ...
 
 <!---
